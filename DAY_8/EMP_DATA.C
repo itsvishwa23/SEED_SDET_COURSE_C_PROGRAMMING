@@ -63,8 +63,11 @@ int main()
     printf("\n\n Emp id %d works as a Clerk\n\n",empid);
     break;
 
+    
+
     default:
         printf("Invalid data entered.\n");
     }
-    
+
+    printf("Good Bye\n");
 }
