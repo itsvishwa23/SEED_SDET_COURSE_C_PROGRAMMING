@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+#include<stdlib.h>
 int main() {
     float withdraw, deposit, balance = 50000.00;
     int choice, new_pin, old_pin = 2398;
@@ -65,6 +65,7 @@ int main() {
 
             case 6:
             printf("\n Thank You for Using ATM\n");
+            exit(0);
             break;
 
             default:
