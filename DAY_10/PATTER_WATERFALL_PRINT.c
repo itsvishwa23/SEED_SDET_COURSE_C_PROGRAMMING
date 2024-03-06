@@ -7,6 +7,7 @@ int main()
     {
         for(colum=1;colum<=row;colum=colum+1){
             printf("*");
+            
         }
         printf("\n");
     }
