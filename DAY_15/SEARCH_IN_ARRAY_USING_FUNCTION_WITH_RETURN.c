@@ -3,7 +3,8 @@ int arrSearch(int[], int, int);
 int main()
 {
     int arr[5]={10,20,30,40,50};
-    int num_to_find,result=10;
+    int num_to_find,result;
+    num_to_find=50;
     result=arrSearch(arr,num_to_find,result);
     if(result>=0)
     {
@@ -24,11 +25,11 @@ int arrSearch(int arr[], int num_to_find, int result)
     {
         if(num_to_find==arr[counter])
         {
-                 result=counter;
-                 return result;
+                 return counter;
         }
         
 
     }
+    return -1;
 
 }
