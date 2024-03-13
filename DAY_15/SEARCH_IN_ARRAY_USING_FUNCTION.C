@@ -10,7 +10,7 @@ int main()
     accept(arr,size);
     printf("\n Enter the number to search:");
     scanf("%d",&num_to_find);
-    arrSort(arr,num_to_find,size);
+    arrSort(&arr,num_to_find,size);
 }
 int arrSort(int arr[],int num_to_find,int size)
 {

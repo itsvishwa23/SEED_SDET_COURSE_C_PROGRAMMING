@@ -11,7 +11,18 @@
     "NESTED_PREPROCESSOR_DEMO.C": "cpp",
     "PREPROCESSOR_FUNCTION_DEMO.C": "cpp",
     "DEFINATION.C": "cpp",
-    "CONDITIONAL_PRE_PROCESSOR.C": "cpp"
+    "CONDITIONAL_PRE_PROCESSOR.C": "cpp",
+    "ADD.C": "cpp",
+    "MACRO_DEMO.C": "cpp",
+    "ARRAY_DEMO.C": "cpp",
+    "SEARCH_IN_ARRAY_USING_FUNCTION.C": "cpp",
+    "AREA_AND_PERIMETER_OF_CIRCLE_AND_RECTANGLE.C": "cpp",
+    "AVG_RAINFALL.C": "cpp",
+    "BINARY_SORT.C": "cpp",
+    "CALCULATE_POWER.C": "cpp",
+    "X_AND_Y_EXPRESSION_USING_ARRAY.C": "cpp"
   },
-  "editor.formatOnPaste": true
+  "editor.formatOnPaste": true,
+  "editor.inlineSuggest.enabled": true,
+  "editor.inlineSuggest.showToolbar": "always"
 }

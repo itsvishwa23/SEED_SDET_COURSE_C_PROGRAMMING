@@ -21,4 +21,5 @@ int power(int number, int power_2)
     }
     
     return result;
+    
 }
