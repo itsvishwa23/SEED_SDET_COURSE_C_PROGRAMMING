@@ -23,7 +23,8 @@
     "X_AND_Y_EXPRESSION_USING_ARRAY.C": "cpp",
     "PRINT_ALTERNATE_CHARACTER.C": "cpp",
     "REVERSE_STRING_WITHOUT_FUNCTION.C": "cpp",
-    "COUNT_VOWELS.C": "cpp"
+    "COUNT_VOWELS.C": "cpp",
+    "CAPS_TO_SMALL.C": "cpp"
   },
   "editor.formatOnPaste": true,
   "editor.inlineSuggest.enabled": true,
