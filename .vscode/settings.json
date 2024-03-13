@@ -20,7 +20,10 @@
     "AVG_RAINFALL.C": "cpp",
     "BINARY_SORT.C": "cpp",
     "CALCULATE_POWER.C": "cpp",
-    "X_AND_Y_EXPRESSION_USING_ARRAY.C": "cpp"
+    "X_AND_Y_EXPRESSION_USING_ARRAY.C": "cpp",
+    "PRINT_ALTERNATE_CHARACTER.C": "cpp",
+    "REVERSE_STRING_WITHOUT_FUNCTION.C": "cpp",
+    "COUNT_VOWELS.C": "cpp"
   },
   "editor.formatOnPaste": true,
   "editor.inlineSuggest.enabled": true,
