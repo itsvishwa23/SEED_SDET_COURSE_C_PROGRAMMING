@@ -25,7 +25,8 @@
     "REVERSE_STRING_WITHOUT_FUNCTION.C": "cpp",
     "COUNT_VOWELS.C": "cpp",
     "CAPS_TO_SMALL.C": "cpp",
-    "STRING_OPERATIONS.C": "cpp"
+    "STRING_OPERATIONS.C": "cpp",
+    "STRING_PALINDROME.C": "cpp"
   },
   "editor.formatOnPaste": true,
   "editor.inlineSuggest.enabled": true,

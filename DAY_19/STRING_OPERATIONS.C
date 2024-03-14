@@ -3,6 +3,7 @@
 void occurence(char [],int);
 void blank(char [],int);
 void words(char [],int);
+void vowels(char [],int);
 int main()
 {
     char arr[50];
@@ -10,9 +11,10 @@ int main()
     printf("\n Enter the string\n");
     gets(arr);
     length=strlen(arr);
-    //occurence(arr,length);
-    //blank(arr,length);
-    //words(arr,length);
+    occurence(arr,length);
+    blank(arr,length);
+    words(arr,length);
+    vowels(arr,length);
 }
 
 void occurence(char arr[], int length)
@@ -53,5 +55,19 @@ void words(char arr[], int length)
     }
 
     printf("\n The number of words in the string is:%d",words+1);
+
+}
+void vowels(char arr[], int length)
+{
+    int vowel=0;
+     for(int counter = 0; counter <= length ; counter=counter+1)
+    {
+        if(arr[counter] == 'a' || arr[counter] == 'e' || arr[counter] == 'i' || arr[counter] == 'o' || arr[counter] == 'u' ||
+           arr[counter] == 'A' || arr[counter] == 'E' || arr[counter] == 'I' || arr[counter] == 'O' || arr[counter] == 'U')
+        
+        vowel=vowel+1;
+
+    }
+    printf("\n The number of the vowels in the string is %d:",vowel);
 
 }
