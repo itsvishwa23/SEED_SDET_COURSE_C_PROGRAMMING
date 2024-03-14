@@ -24,7 +24,8 @@
     "PRINT_ALTERNATE_CHARACTER.C": "cpp",
     "REVERSE_STRING_WITHOUT_FUNCTION.C": "cpp",
     "COUNT_VOWELS.C": "cpp",
-    "CAPS_TO_SMALL.C": "cpp"
+    "CAPS_TO_SMALL.C": "cpp",
+    "STRING_OPERATIONS.C": "cpp"
   },
   "editor.formatOnPaste": true,
   "editor.inlineSuggest.enabled": true,
