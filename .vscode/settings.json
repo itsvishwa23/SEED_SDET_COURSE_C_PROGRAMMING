@@ -27,7 +27,13 @@
     "CAPS_TO_SMALL.C": "cpp",
     "STRING_OPERATIONS.C": "cpp",
     "STRING_PALINDROME.C": "cpp",
-    "SUB_STRING.C": "cpp"
+    "SUB_STRING.C": "cpp",
+    "2D_ARRAY_DEMO.C": "cpp",
+    "2D_ARRAY_USER_ENTERED_DATA.C": "cpp",
+    "MARKSHEET.C": "cpp",
+    "HARRY_POTTER_SERIES.C": "cpp",
+    "STATE_&CAPITAL.C": "cpp",
+    "STATE_and_CAPITAL.C": "cpp"
   },
   "editor.formatOnPaste": true,
   "editor.inlineSuggest.enabled": true,
