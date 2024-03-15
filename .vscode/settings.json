@@ -33,7 +33,9 @@
     "MARKSHEET.C": "cpp",
     "HARRY_POTTER_SERIES.C": "cpp",
     "STATE_&CAPITAL.C": "cpp",
-    "STATE_and_CAPITAL.C": "cpp"
+    "STATE_and_CAPITAL.C": "cpp",
+    "AVG_MARKS.C": "cpp",
+    "FATHER_NAME.C": "cpp"
   },
   "editor.formatOnPaste": true,
   "editor.inlineSuggest.enabled": true,

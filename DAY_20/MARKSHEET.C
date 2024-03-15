@@ -2,7 +2,7 @@
 int main()
 {
     char students[5][20];
-    char subject[5][5];
+    char subject[5][10];
 
     int n1,n2,i,j;
     printf("\n Enter the number of students\n");
