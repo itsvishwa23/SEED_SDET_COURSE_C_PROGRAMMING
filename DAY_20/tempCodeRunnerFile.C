@@ -1,0 +1,1 @@
+sum = sum+ *(marks[counter]);

@@ -10,11 +10,11 @@ int main()
     {
         printf("\n Enter the name of %d state",i);
         scanf("%s",state[i]);
-        for(j=0;j<1;j++)
-        {
+        
+        
             printf("\n Enter the name of capital for the state %s",state[i]);
-            scanf("%s",capital[i]);
-        }
+            scanf("%s",capital[i][j]);
+        
     }
 
 

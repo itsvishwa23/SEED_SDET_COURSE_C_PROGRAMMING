@@ -8,26 +8,24 @@ int main()
     char fathersname[n][20];
     for(i=0;i<n;i=i+1)
     {
-        printf("\n Enter the %d student name",i);
+        printf("\n Enter the %d student name",i+1);
         scanf("%s",studentname[i]);
 
-        for(j=0;j<n;j=j=1)
-        {
+       
          printf("\n Enter the father name");
          scanf("%s",fathersname[i]);   
-        }
+        
     }
 
 
      for(i=0;i<n;i=i+1)
     {
         printf("\n Student name");
-        printf("%s",studentname[i]);
+        printf(" %s",studentname[i]);
 
-        for(j=0;j<n;j=j=1)
-        {
+        
          printf("\n Father name");
-         printf("%s",fathersname[i]);   
-        }
+         printf(" %s",fathersname[i]);   
+        
     }
 } 

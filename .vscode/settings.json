@@ -36,7 +36,8 @@
     "STATE_and_CAPITAL.C": "cpp",
     "AVG_MARKS.C": "cpp",
     "FATHER_NAME.C": "cpp",
-    "2D_ARRAY_USING_POINTER.C": "cpp"
+    "2D_ARRAY_USING_POINTER.C": "cpp",
+    "YEAR_RAINFALL.C": "cpp"
   },
   "editor.formatOnPaste": true,
   "editor.inlineSuggest.enabled": true,
