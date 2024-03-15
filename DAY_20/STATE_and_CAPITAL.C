@@ -2,7 +2,7 @@
 int main()
 {   
     int n,i,j;
-    printf("\n Enter the number of cities you want to add\n");
+    printf("\n Enter the number of states you want to add\n");
     scanf("%d",&n);
     char state[n][20];
     char capital[n][20];
@@ -13,7 +13,7 @@ int main()
         
         
             printf("\n Enter the name of capital for the state %s",state[i]);
-            scanf("%s",capital[i][j]);
+            scanf("%s",capital[i]);
         
     }
 
