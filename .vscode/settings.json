@@ -39,7 +39,16 @@
     "2D_ARRAY_USING_POINTER.C": "cpp",
     "YEAR_RAINFALL.C": "cpp",
     "STUDENT_NAME_SEARCH_USING_DYNAMIC_MEMORY_ALLOCATION.C": "cpp",
-    "STUDENT_PASSING.C": "cpp"
+    "STUDENT_PASSING.C": "cpp",
+    "STRUCTURE.C": "cpp",
+    "STRUCTURE_DEMO.C": "cpp",
+    "STRUCTURE_USING_FUNCTION.C": "cpp",
+    "NESTED_STRCTURE.C": "cpp",
+    "CALL_BY_REF_EXAMPLE.C": "cpp",
+    "CIRCLE_AREA_USING_RETURN_FUNCTION.C": "cpp",
+    "FIBONACCI_SERIES_USING_FUNCTION.C": "cpp",
+    "FIND_AREA_AND_CIRCUMFERENCE_USING_CALL_BY_REF.C": "cpp",
+    "POWER_USING_FUNCTION.C": "cpp"
   },
   "editor.formatOnPaste": true,
   "editor.inlineSuggest.enabled": true,
