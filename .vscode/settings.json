@@ -48,7 +48,9 @@
     "CIRCLE_AREA_USING_RETURN_FUNCTION.C": "cpp",
     "FIBONACCI_SERIES_USING_FUNCTION.C": "cpp",
     "FIND_AREA_AND_CIRCUMFERENCE_USING_CALL_BY_REF.C": "cpp",
-    "POWER_USING_FUNCTION.C": "cpp"
+    "POWER_USING_FUNCTION.C": "cpp",
+    "STUDENT_DATA_WITH_MARKS_NESTED_STRUCTURE.C": "cpp",
+    "ARRAY_OF_STRUCTURE.C": "cpp"
   },
   "editor.formatOnPaste": true,
   "editor.inlineSuggest.enabled": true,
